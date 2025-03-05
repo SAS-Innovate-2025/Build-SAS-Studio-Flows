@@ -1,6 +1,8 @@
 # Build SAS Studio Flows
 
-SAS®  Studio Flows provide a visual, drag-and-drop interface within SAS®  Studio that allows users to build, manage, and execute complex analytics workflows without writing code. In this hands-on workshop you'll learn to build a flow using steps to access, prepare, and analyze your data. .
+SAS®  Studio Flows provide a visual, drag-and-drop interface within SAS®  Studio that allows users to build, manage, and execute complex analytics workflows without writing code. In this hands-on workshop you'll learn to build a flow using steps to access, prepare, and analyze your data.
+
+Presented by: Mary Kathryn Queen, SAS EDU Content Development Group
 
 ## Important Information
 
