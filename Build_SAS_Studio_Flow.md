@@ -192,7 +192,7 @@ Select **No** when prompted about accepting *Admin* privileges.
      ![](images/RunFinalFlow.png)
 
 1. Select ![Libraries](images/LibrariesPane.png) to view the Libraries pane.
-1. View the **CARS_INFO** table in the **WORK** SAS library.
+1. Double-click the **CARS_INFO** table in the **WORK** SAS library to open it for viewing.
 
      ![](images/CARS_INFOTable.png)
 
