@@ -75,6 +75,7 @@ Select **No** when prompted about accepting *Admin* privileges.
 <br>
 
 ### Join the Table and Imported File
+1. Select ![Steps Pane](images/Steps.png) to return to the **Steps** pane.
 1. Add the **Query** step in the *Transform Data* section of the *Steps* pane to the flow canvas and connect it to both the **CARS** *Table* step and the **Import** step.  This creates two input ports for the *Query* step.
 
      > &#9755; You can drop the **Query** node on the right-hand side of the **CARS** *Table* node in flow canvas to auto-connect them and then manually connect the *Import* step to it.
