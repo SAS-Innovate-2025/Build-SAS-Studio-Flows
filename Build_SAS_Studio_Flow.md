@@ -167,8 +167,9 @@ Select **No** when prompted about accepting *Admin* privileges.
 1. **Save** the changes to the flow.
 1. **Run** the flow and select the **Output port** of the *Query* step and **preview** its results.
 
-   ![](images/QueryRunOutput2.png)
+     ![](images/QueryRunOutput2.png)
 
+     > &#9998; The *Diff* column is now formatted correctly.
 
 <br>
 
