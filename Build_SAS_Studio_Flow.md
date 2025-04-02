@@ -120,7 +120,7 @@ Select **No** when prompted about accepting *Admin* privileges.
 
 1. Click **Save** to save the calculated column.
 
-     ![](images/QuerySelectCalc/.png)
+     ![](images/QuerySelectCalc.png)
 
 1. On the *Join* tab, confirm that the join condition is **t1.Make=t2.MAKE**.
 
